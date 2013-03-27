@@ -1,7 +1,7 @@
 type-master
 ===========
 
-A curated collection of resources about web typography 
+A curated collection of js resources about web typography 
 
 ##General
 
