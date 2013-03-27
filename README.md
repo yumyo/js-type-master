@@ -165,3 +165,6 @@ http://www.unwrongest.com/projects/airport/
 ####grab bag
 assorted text effects jQuery plugins
 http://onehackoranother.com/projects/jquery/jquery-grab-bag/text-effects.html
+
+####Creative web typography styles
+http://tympanus.net/codrops/2012/09/12/creative-web-typography-styles/
