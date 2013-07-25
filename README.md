@@ -1,7 +1,7 @@
-type-master
+Js type master
 ===========
 
-A curated collection of js resources about web typography 
+A curated collection of javascript resources about web typography
 
 ##General
 
@@ -10,14 +10,14 @@ This is a small project that simply brings together several useful JavaScript fu
 https://github.com/elliottcable/typography.js
 
 ####Font.js
-This library adds a Font object to the collection of predefined objects available to you when doing JS coding for the web. 
+This library adds a Font object to the collection of predefined objects available to you when doing JS coding for the web.
 http://pomax.nihongoresources.com/pages/Font.js/
 
 ####Typesetter.js
 an open source project with the goal of bringing better typography to every type of digital screen
 https://github.com/nofont/Typesetter.js
 
-####typogr.js 
+####typogr.js
 provides a set of functions which automatically apply various transformations to plain text in order to yield typographically-improved HTML.
 https://github.com/ekalinin/typogr.js
 
@@ -56,7 +56,22 @@ https://github.com/hudsonfoo/jQuery-Bacon
 
 ##Ellipsis
 
-####jQuery.dotdotdot 
+####trunk8
+jQuery Truncation Plugin based on n.° of lines.
+https://github.com/rviscomi/trunk8
+
+Zepto version
+https://github.com/etouches/trunk8-zepto
+
+####Ellipsis
+Ellipsis is a customizable jQuery plugin for the smart truncation of text base on container width and not character count.
+https://github.com/kanikarphan/ellipsis
+
+####Clamp.js
+Clamps an HTML element by adding ellipsis to it if the content inside is too long.
+https://github.com/josephschmitt/Clamp.js
+
+####jQuery.dotdotdot
 an advanced cross-browser ellipsis for multiple line content plugin.
 http://dotdotdot.frebsite.nl/
 
@@ -70,8 +85,8 @@ http://www.kernjs.com/
 kerning get easy.
 https://github.com/clearideaz/jKerny
 
-####TypeButter 
-allows you to set optical kerning for any font on your website. 
+####TypeButter
+allows you to set optical kerning for any font on your website.
 http://typebutter.com/
 
 ####Kerning.js
@@ -101,7 +116,7 @@ https://github.com/daneden/Baseline.js
 a jQuery plugin for inflating web type.
 https://github.com/davatron5000/FitText.js
 
-####jSlabify 
+####jSlabify
 a jQuery plugin for creating slabbed typography.
 https://github.com/gschoppe/jSlabify
 
@@ -158,7 +173,7 @@ http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery/
 jquery text effect plugin.
 https://code.google.com/p/jqisotext/downloads/list
 
-####Airport 
+####Airport
 jqQery plugin which emulates the style of those flickering information boards.
 http://www.unwrongest.com/projects/airport/
 
