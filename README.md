@@ -21,10 +21,24 @@ https://github.com/nofont/Typesetter.js
 provides a set of functions which automatically apply various transformations to plain text in order to yield typographically-improved HTML.
 https://github.com/ekalinin/typogr.js
 
-##Alignment and Hypenation:
+####Calzone
+Better typesetting for EPUB (and HTML).
+https://github.com/simoncozens/calzone
+
+##Hypenation:
 
 ####TeX line breaking algorithm in JavaScript.
 https://github.com/bramstein/typeset
+
+####Hypher
+A small and fast JavaScript hyphenation engine. Can be used in Node.js and as a jQuery plugin.
+https://github.com/bramstein/Hypher
+
+####BalanceText
+A jQuery plugin to provide an alternate text wrapping algorithm.
+https://github.com/adobe-webplatform/balance-text
+
+##Widows:
 
 ####The Widow Tamer
 …is a Javascript to automatically fix typographic widows on your web pages.
@@ -34,27 +48,7 @@ https://github.com/nathanford/widowtamer
 A simple jQuery script for managing typographic orphans & widows as programmatically as possible.
 https://github.com/Nilloc/typorphanage
 
-####Hypher
-A small and fast JavaScript hyphenation engine. Can be used in Node.js and as a jQuery plugin.
-https://github.com/bramstein/Hypher
-
-####Calzone
-Better typesetting for EPUB (and HTML).
-https://github.com/simoncozens/calzone
-
-####BalanceText
-A jQuery plugin to provide an alternate text wrapping algorithm.
-https://github.com/adobe-webplatform/balance-text
-
-####jQSlickWrap
-the pixel-perfect prose plugin.
-https://github.com/jasonwyatt/jQSlickWrap
-
-####Bacon!
-a jQuery plugin that allows you to wrap text around a bezier curve or a line.
-https://github.com/hudsonfoo/jQuery-Bacon
-
-##Ellipsis
+##Ellipsis:
 
 ####trunk8
 jQuery Truncation Plugin based on n.° of lines.
@@ -74,6 +68,16 @@ https://github.com/josephschmitt/Clamp.js
 ####jQuery.dotdotdot
 an advanced cross-browser ellipsis for multiple line content plugin.
 http://dotdotdot.frebsite.nl/
+
+##Wrap around:
+
+####jQSlickWrap
+the pixel-perfect prose plugin.
+https://github.com/jasonwyatt/jQSlickWrap
+
+####Bacon!
+a jQuery plugin that allows you to wrap text around a bezier curve or a line.
+https://github.com/hudsonfoo/jQuery-Bacon
 
 ##Kerning
 
