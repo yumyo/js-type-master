@@ -2,6 +2,8 @@ Js type master
 ===========
 
 A curated collection of javascript resources about web typography
+
+
 <!-- toc -->
 
 * [General](#general)
@@ -22,6 +24,7 @@ A curated collection of javascript resources about web typography
     * [Ellipsis](#ellipsis)
     * [Clamp.js](#clampjs)
     * [jQuery.dotdotdot](#jquerydotdotdot)
+    * [TextTailor.js](#texttailorjs)
 * [Wrap around:](#wrap-around)
     * [jQSlickWrap](#jqslickwrap)
     * [Bacon!](#bacon)
@@ -41,9 +44,20 @@ A curated collection of javascript resources about web typography
     * [BigText](#bigtext)
     * [Hatchshow](#hatchshow)
     * [Slabtext](#slabtext)
+    * [TextTailor.js](#texttailorjs)
+    * [jQuery responsiveText](#jquery-responsivetext)
+    * [textFit v2.1.0](#textfit-v210)
+    * [Squishy.js](#squishyjs)
+    * [jQuery TextFill](#jquery-textfill)
+    * [WideText](#widetext)
+    * [textStretch.js](#textstretchjs)
+    * [Font-to-Width](#font-to-width)
+    * [Fitter Happier Text](#fitter-happier-text)
 * [Responsive](#responsive)
     * [Responsive-Measure](#responsive-measure)
     * [jQuery.responsiveText](#jqueryresponsivetext)
+    * [FlowType.JS](#flowtypejs)
+    * [jQuery.fontFlex](#jqueryfontflex)
 * [Individual Letter Control](#individual-letter-control)
     * [Lettering.js](#letteringjs)
 * [Special Effects](#special-effects)
@@ -57,6 +71,7 @@ A curated collection of javascript resources about web typography
     * [Creative web typography styles](#creative-web-typography-styles)
 
 <!-- toc stop -->
+
 
 
 
@@ -205,6 +220,35 @@ a jquery plugin for producing big, bold & responsive headlines.
 :new: A jQuery plugin to set font sizes responsively based on its' container width. Use jQuery responsiveText to have scalable headlines, build responsive tables and more!    
 [https://github.com/ghepting/jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text)
 
+####textFit v2.1.0
+:new:  A fast, jQuery-free text sizing component that quickly fits single and multi-line text to the width (and optionally height) of its container.   
+[https://github.com/STRML/textFit](https://github.com/STRML/textFit)
+
+####Squishy.js
+:new:  Squishy is a jQuery plugin that automatically resizes text to exactly fit the container with no extra work on your part.   
+[http://cmsauve.com/projects/squishy/](http://cmsauve.com/projects/squishy/)
+
+####jQuery TextFill
+:new:  This jQuery plugin resizes text to make it fit into a container. The font size gets as big as possible.    
+[https://github.com/jquery-textfill/jquery-textfill](https://github.com/jquery-textfill/jquery-textfill)
+
+####WideText 
+:new:  A lightweight jQuery plugin that allows your to create full width text elements that will resize according to the browser window.      
+[https://bitbucket.org/cbavota/widetext/](https://bitbucket.org/cbavota/widetext/)
+
+####textStretch.js
+:new:  A javascript function and a jQuery extension for maximizing font sizes to fill out the element's width.   
+textStretch.js is minimal, fast and robust. It doesn't require or add any wrappers or child-elements, and it adapts to when you resize the window or flip your device. t**extStretch is build with older browsers in mind. It's tested and works with Chrome, Safari, Firefox and Internet Explorer (I haven't tested any version older than 6 though).**
+
+####Font-to-Width
+:new:  Font-To-Width if a small Javascript routine which fits text to the width of an element using multiple font families of different widths.   
+[https://github.com/chrissam42/font-to-width](https://github.com/chrissam42/font-to-width)
+
+####Fitter Happier Text
+:new:  Performant, fully fluid headings    
+[http://jxnblk.github.io/fitter-happier-text/](http://jxnblk.github.io/fitter-happier-text/)
+
+
 ##Responsive
 
 ####Responsive-Measure
@@ -214,6 +258,14 @@ A jQuery plugin for generating a responsive ideal measure.
 ####jQuery.responsiveText
 A simple jQuery plugin to make a specific selector's or the whole page's text responsive.
 [https://github.com/klr/jQuery.responsiveText](https://github.com/klr/jQuery.responsiveText)
+
+####FlowType.JS
+:new:  Responsive web typography at its finest: font-size and line-height based on element width.    
+[http://simplefocus.com/flowtype/](http://simplefocus.com/flowtype/)
+
+####jQuery.fontFlex
+:new:  Lightweight jQuery extension for dynamically changing font sizes according to screen / browser width. Intended to be used with responsive or adaptive CSS layouts.    
+[https://github.com/NathanRutzky/jQuery.fontFlex](https://github.com/NathanRutzky/jQuery.fontFlex)
 
 ##Individual Letter Control
 
