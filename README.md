@@ -75,7 +75,7 @@ A curated collection of javascript resources about web typography
 
 
 
-##General
+#General
 
 ####Typography.js
 This is a small project that simply brings together several useful JavaScript functions.
@@ -97,7 +97,7 @@ provides a set of functions which automatically apply various transformations to
 Better typesetting for EPUB (and HTML).		
 [https://github.com/simoncozens/calzone](https://github.com/simoncozens/calzone)
 
-##Hypenation:
+#Hypenation:
 
 ####TeX line breaking algorithm in JavaScript.		
 [https://github.com/bramstein/typeset](https://github.com/bramstein/typeset)
@@ -110,7 +110,7 @@ A small and fast JavaScript hyphenation engine. Can be used in Node.js and as a 
 A jQuery plugin to provide an alternate text wrapping algorithm.   
 [https://github.com/adobe-webplatform/balance-text](https://github.com/adobe-webplatform/balance-text)
 
-##Widows:
+#Widows:
 
 ####The Widow Tamer
 …is a Javascript to automatically fix typographic widows on your web pages.
@@ -120,7 +120,7 @@ A jQuery plugin to provide an alternate text wrapping algorithm.
 A simple jQuery script for managing typographic orphans & widows as programmatically as possible.
 [https://github.com/Nilloc/typorphanage](https://github.com/Nilloc/typorphanage)
 
-##Ellipsis:
+#Ellipsis:
 
 ####trunk8
 jQuery Truncation Plugin based on n.° of lines.   
@@ -145,7 +145,7 @@ an advanced cross-browser ellipsis for multiple line content plugin.
 Tailor-made text to fit your needs! Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.      
 [http://jpntex.com/texttailor/](http://jpntex.com/texttailor/)
 
-##Wrap around:
+#Wrap around:
 
 ####jQSlickWrap
 the pixel-perfect prose plugin.   
@@ -155,7 +155,7 @@ the pixel-perfect prose plugin.
 a jQuery plugin that allows you to wrap text around a bezier curve or a line.   
 [https://github.com/hudsonfoo/jQuery-Bacon](https://github.com/hudsonfoo/jQuery-Bacon)
 
-##Kerning
+#Kerning
 
 ####kern.js
 A super-simple bookmarklet for designers that finally puts you back in control of your website's typography.   
@@ -173,7 +173,7 @@ allows you to set optical kerning for any font on your website.
 take control of your web typography   
 [https://github.com/endtwist/kerning.js](https://github.com/endtwist/kerning.js)
 
-##Vertical rhythm
+#Vertical rhythm
 
 ####Auto line-height
 a jQuery plugin for flexible layouts.   
@@ -190,7 +190,7 @@ Using jQuery to keep typographic rhythm.
 Baseline.js is a simple jQuery plugin for restoring baselines thrown off by odd image sizes.   
 [https://github.com/daneden/Baseline.js](https://github.com/daneden/Baseline.js)
 
-##Fitting Text
+#Fitting Text
 
 ####FitText.js
 a jQuery plugin for inflating web type.   
@@ -248,8 +248,7 @@ textStretch.js is minimal, fast and robust. It doesn't require or add any wrappe
 :new:  Performant, fully fluid headings    
 [http://jxnblk.github.io/fitter-happier-text/](http://jxnblk.github.io/fitter-happier-text/)
 
-
-##Responsive
+#Responsive
 
 ####Responsive-Measure
 A jQuery plugin for generating a responsive ideal measure.
@@ -267,13 +266,13 @@ A simple jQuery plugin to make a specific selector's or the whole page's text re
 :new:  Lightweight jQuery extension for dynamically changing font sizes according to screen / browser width. Intended to be used with responsive or adaptive CSS layouts.    
 [https://github.com/NathanRutzky/jQuery.fontFlex](https://github.com/NathanRutzky/jQuery.fontFlex)
 
-##Individual Letter Control
+#Individual Letter Control
 
 ####Lettering.js
 a jQuery plugin for radical Web Typography.
 [https://github.com/davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js)
 
-##Special Effects
+#Special Effects
 
 ####Web Typography for the Lonely
 [http://webtypographyforthelonely.com/](http://webtypographyforthelonely.com/)
@@ -290,20 +289,20 @@ A plugin to make color gradients in texts.
 a jQuery plug-in that allows you to transition through blurbs of text.
 [https://github.com/krisk/textualizer](https://github.com/krisk/textualizer)
 
-Shuffle Letters Effect
-a jQuery Plugin.
+####Shuffle Letters Effect
+a jQuery Plugin.    
 [http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery/](http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery/)
 
 ####jQisotext
-jquery text effect plugin.
+jquery text effect plugin.   
 [https://code.google.com/p/jqisotext/downloads/list](https://code.google.com/p/jqisotext/downloads/list)
 
 ####Airport
-jqQery plugin which emulates the style of those flickering information boards.
+jqQery plugin which emulates the style of those flickering information boards.   
 [http://www.unwrongest.com/projects/airport/](http://www.unwrongest.com/projects/airport/)
 
 ####grab bag
-assorted text effects jQuery plugins
+assorted text effects jQuery plugins   
 [http://onehackoranother.com/projects/jquery/jquery-grab-bag/text-effects.html](http://onehackoranother.com/projects/jquery/jquery-grab-bag/text-effects.html)
 
 ####Creative web typography styles
