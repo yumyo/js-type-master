@@ -154,11 +154,11 @@ a jquery plugin for producing big, bold & responsive headlines.
 [https://github.com/freqDec/slabText/](https://github.com/freqDec/slabText/)
 
 ####TextTailor.js   
-:new: Tailor-made text to fit your needs! Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.      
+Tailor-made text to fit your needs! Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.      
 [http://jpntex.com/texttailor/](http://jpntex.com/texttailor/)
 
 ####jQuery responsiveText
-:new: A jQuery plugin to set font sizes responsively based on its' container width. Use jQuery responsiveText to have scalable headlines, build responsive tables and more!    
+A jQuery plugin to set font sizes responsively based on its' container width. Use jQuery responsiveText to have scalable headlines, build responsive tables and more!    
 [https://github.com/ghepting/jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text)
 
 ####textFit v2.1.0
@@ -220,6 +220,14 @@ Blast.js separates text in order to facilitate typographic manipulation. It has 
 
 ##Side & footnotes
 
+####SideComments.js
+A sweet-ass interface component to give your site Medium.com style comments.    
+[http://aroc.github.io/side-comments-demo/](http://aroc.github.io/side-comments-demo/)
+
+####Footnoted
+Make superscript footnote markers with scrolling anchor links to a footnote section.    
+[https://github.com/jheftmann/footnoted](https://github.com/jheftmann/footnoted)
+
 ####Bigfoot
 A jQuery plugin for empowering footnotes.    
 [http://www.bigfootjs.com/](http://www.bigfootjs.com/)
@@ -235,6 +243,10 @@ jQuery plugin to create inline plugins from Markdown-created HTML footnotes.
 ####Responsive Sidenotes [Tutorial]
 Footnotes and sidenotes are both useful ways to annotate online blog posts and articles. With the help of responsive design, it's now possible to use both approaches at the same time.    
 [http://johndjameson.com/blog/responsive-sidenotes/](http://johndjameson.com/blog/responsive-sidenotes/)
+
+####Foot2Side
+a tiny jQuery script that transforms footnotes into sidenotes and align them vertically with their references.
+[https://github.com/metaphox/footnote-to-sidenote](https://github.com/metaphox/footnote-to-sidenote)
 
 ##User text selection
 
@@ -286,6 +298,10 @@ jqQery plugin which emulates the style of those flickering information boards.
 
 ##Other Special Effects
 
+####Textillate
+A simple plugin for CSS3 text animations.   
+[http://jschr.github.io/textillate/](http://jschr.github.io/textillate/)
+
 ####Web Typography for the Lonely
 [http://webtypographyforthelonely.com/](http://webtypographyforthelonely.com/)
 
@@ -301,7 +317,6 @@ A plugin to make color gradients in texts.
 ####jQisotext
 jquery text effect plugin.   
 [https://code.google.com/p/jqisotext/downloads/list](https://code.google.com/p/jqisotext/downloads/list)
-
 
 ####grab bag
 assorted text effects jQuery plugins   
