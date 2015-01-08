@@ -1,9 +1,22 @@
 A curated collection of javascript resources about web typography
 
-[TOC]
+* [General](#general)
+* [Hypenation:](#hypenation)
+* [Widows:](#widows)
+* [Ellipsis:](#ellipsis)
+* [Wrap around:](#wrap-around)
+* [Kerning](#kerning)
+* [Vertical rhythm](#vertical-rhythm)
+* [Fitting Text](#fitting-text)
+* [Responsive](#responsive)
+* [Individual sentence/word/letter Control](#individual-sentence/word/letter-control)
+* [Side & footnotes](#side-&-footnotes)
+* [User text selection](#user-text-selection)
+* [Transform Text](#transform-text)
+* [Other Special Effects](#other-special-effects)
 
 
-###General
+##General
 
 ####Typography.js
 This is a small project that simply brings together several useful JavaScript functions.
@@ -25,7 +38,7 @@ provides a set of functions which automatically apply various transformations to
 Better typesetting for EPUB (and HTML).		
 [https://github.com/simoncozens/calzone](https://github.com/simoncozens/calzone)
 
-###Hypenation:
+##Hypenation:
 
 ####TeX line breaking algorithm in JavaScript.		
 [https://github.com/bramstein/typeset](https://github.com/bramstein/typeset)
@@ -38,7 +51,7 @@ A small and fast JavaScript hyphenation engine. Can be used in Node.js and as a 
 A jQuery plugin to provide an alternate text wrapping algorithm.   
 [https://github.com/adobe-webplatform/balance-text](https://github.com/adobe-webplatform/balance-text)
 
-###Widows:
+##Widows:
 
 ####The Widow Tamer
 …is a Javascript to automatically fix typographic widows on your web pages.
@@ -48,7 +61,7 @@ A jQuery plugin to provide an alternate text wrapping algorithm.
 A simple jQuery script for managing typographic orphans & widows as programmatically as possible.
 [https://github.com/Nilloc/typorphanage](https://github.com/Nilloc/typorphanage)
 
-###Ellipsis:
+##Ellipsis:
 
 ####trunk8
 jQuery Truncation Plugin based on n.° of lines.   
@@ -73,7 +86,7 @@ an advanced cross-browser ellipsis for multiple line content plugin.
 Tailor-made text to fit your needs! Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.      
 [http://jpntex.com/texttailor/](http://jpntex.com/texttailor/)
 
-###Wrap around:
+##Wrap around:
 
 ####jQSlickWrap
 the pixel-perfect prose plugin.   
@@ -83,7 +96,7 @@ the pixel-perfect prose plugin.
 a jQuery plugin that allows you to wrap text around a bezier curve or a line.   
 [https://github.com/hudsonfoo/jQuery-Bacon](https://github.com/hudsonfoo/jQuery-Bacon)
 
-###Kerning
+##Kerning
 
 ####kern.js
 A super-simple bookmarklet for designers that finally puts you back in control of your website's typography.   
@@ -101,7 +114,7 @@ allows you to set optical kerning for any font on your website.
 take control of your web typography   
 [https://github.com/endtwist/kerning.js](https://github.com/endtwist/kerning.js)
 
-###Vertical rhythm
+##Vertical rhythm
 
 ####Auto line-height
 a jQuery plugin for flexible layouts.   
@@ -118,7 +131,7 @@ Using jQuery to keep typographic rhythm.
 Baseline.js is a simple jQuery plugin for restoring baselines thrown off by odd image sizes.   
 [https://github.com/daneden/Baseline.js](https://github.com/daneden/Baseline.js)
 
-###Fitting Text
+##Fitting Text
 
 ####FitText.js
 a jQuery plugin for inflating web type.   
@@ -177,7 +190,7 @@ Font-To-Width if a small Javascript routine which fits text to the width of an e
 Performant, fully fluid headings    
 [http://jxnblk.github.io/fitter-happier-text/](http://jxnblk.github.io/fitter-happier-text/)
 
-###Responsive
+##Responsive
 
 ####Responsive-Measure
 A jQuery plugin for generating a responsive ideal measure.
@@ -195,7 +208,7 @@ Responsive web typography at its finest: font-size and line-height based on elem
 Lightweight jQuery extension for dynamically changing font sizes according to screen / browser width. Intended to be used with responsive or adaptive CSS layouts.    
 [https://github.com/NathanRutzky/jQuery.fontFlex](https://github.com/NathanRutzky/jQuery.fontFlex)
 
-###Individual sentence/word/letter Control
+##Individual sentence/word/letter Control
 
 ####Lettering.js
 a jQuery plugin for radical Web Typography.    
@@ -205,7 +218,7 @@ a jQuery plugin for radical Web Typography.
 Blast.js separates text in order to facilitate typographic manipulation. It has four delimiters built in: character, word, sentence, and element. Alternatively,Blast can match custom regular expressions and phrases.    
 [http://julian.com/research/blast/](http://julian.com/research/blast/)
 
-###Side & footnotes
+##Side & footnotes
 
 ####Bigfoot
 A jQuery plugin for empowering footnotes.    
@@ -223,7 +236,7 @@ jQuery plugin to create inline plugins from Markdown-created HTML footnotes.
 Footnotes and sidenotes are both useful ways to annotate online blog posts and articles. With the help of responsive design, it's now possible to use both approaches at the same time.    
 [http://johndjameson.com/blog/responsive-sidenotes/](http://johndjameson.com/blog/responsive-sidenotes/)
 
-###User text selection
+##User text selection
 
 ####Selection sharer
 Medium like popover menu to share on Twitter or by email any text selected on the page.    
@@ -241,7 +254,7 @@ Annotator is an open-source JavaScript library to easily add annotation function
 JavaScript context menu for selected text; Insert a source reference in copied text.    
 [https://github.com/molily/selectionmenu](https://github.com/molily/selectionmenu)
 
-###Transform Text
+##Transform Text
 
 ####Simple Text Rotator
 Add a super simple rotating text to your website with little to no markup.    
@@ -271,7 +284,7 @@ Create funny and crazy moving texts in a simple way.
 jqQery plugin which emulates the style of those flickering information boards.   
 [http://www.unwrongest.com/projects/airport/](http://www.unwrongest.com/projects/airport/)
 
-###Other Special Effects
+##Other Special Effects
 
 ####Web Typography for the Lonely
 [http://webtypographyforthelonely.com/](http://webtypographyforthelonely.com/)
