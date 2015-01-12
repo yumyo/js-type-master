@@ -1,3 +1,5 @@
+![JS type master](type-master.png)
+
 A curated collection of javascript resources about web typography
 
 * [General](#general)
