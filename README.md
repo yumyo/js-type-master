@@ -118,6 +118,12 @@ take control of your web typography
 
 ##Vertical rhythm
 
+####mini-rhythm.js
+Pure JavaScript way of keeping elements adhering to a vertical rhythm.
+Around 561 bytes. Not dependant on jQuery. cross browser compatibility (**IE7** onwards).
+Intended to accompany CSS vertical rhythm – not replace it!    
+[https://github.com/RShergold/mini-rhythm.js](https://github.com/RShergold/mini-rhythm.js)    
+
 ####Auto line-height
 a jQuery plugin for flexible layouts.   
 [http://www.ollicle.com/2007/jun/03/jquery_lineheight_flexible.html](http://www.ollicle.com/2007/jun/03/jquery_lineheight_flexible.html)
